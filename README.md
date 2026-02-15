@@ -67,4 +67,4 @@ This assignment implements large-scale text processing using Apache Hadoop (MapR
 
 ---
 
-Question 10, 11 & 12 are added in the same git
+Question 4,5,6,10,11&12 are added in the same git
